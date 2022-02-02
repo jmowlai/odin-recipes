@@ -1,0 +1,28 @@
+.logo{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#slogan{
+    text-align: center;
+    font-size: 14px;
+    color: silver;
+}
+
+.shameless{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: crimson;
+}
+
+.mumsBlog{
+    font-size: medium;
+    font-style: italic;
+    color: lightcoral;
+    font-family: Helvetica;
+    text-align: center;
+}
